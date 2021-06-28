@@ -1,6 +1,7 @@
 from time import sleep
 import random
 main=input("enter a mobile number: ")
+main = str(main)
 print("searchibg for " + main)
 print(main + " successfully found")
 mlw=input("send virus [y/n] ")
